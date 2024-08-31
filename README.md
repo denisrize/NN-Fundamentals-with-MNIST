@@ -2,7 +2,7 @@
 
 ## Authors
 
-- [**Denis Rize**](https://github.com/denisrz)
+- [**Denis Rize**](https://github.com/denisrize)
 - [**Adir Serruya**](https://github.com/Adirser)
 
 ## Project Overview
