@@ -2,8 +2,8 @@
 
 ## Authors
 
-- **Denis Rize**  - [GitHub Profile](https://github.com/denisrz)
-- **Adir Serruya** - [GitHub Profile](https://github.com/Adirser)
+- [**Denis Rize**](https://github.com/denisrz)
+- [**Adir Serruya**](https://github.com/Adirser)
 
 ## Project Overview
 
