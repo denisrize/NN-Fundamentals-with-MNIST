@@ -1,0 +1,37 @@
+
+## How to Run
+
+1. Download and Prepare MNIST Data:
+   - Ensure the MNIST dataset files are located in the `./data/MNIST/raw/` directory:
+     - `train-images.idx3-ubyte`
+     - `train-labels.idx1-ubyte`
+     - `t10k-images.idx3-ubyte`
+     - `t10k-labels.idx3-ubyte`
+   
+2. Run the Script:
+   - Execute the script in your Python environment:
+     ```
+     python Assignment1.py
+     ```
+   - The script will:
+     - Load and preprocess the MNIST data.
+     - Train the neural network with specified hyperparameters.
+     - Perform grid search over various hyperparameters (iterations, batch size, batch normalization, L2 regularization).
+     - Plot and save loss and accuracy graphs for training and validation sets.
+
+3. Results:
+   - The best hyperparameters and their corresponding accuracy will be printed.
+   - Loss and accuracy graphs will be saved as PNG files.
+
+
+## Hyperparameters
+
+You can adjust the following hyperparameters in the script:
+
+- `learning_rate`: Learning rate for the optimizer.
+- `layers_dims`: List defining the architecture of the neural network.
+- `num_iterations`: List of iteration values for grid search.
+- `batch_size`: List of batch sizes for grid search.
+- `batch_norm`: List of boolean values to enable/disable batch normalization.
+- `L2_reg`: List of L2 regularization values for grid search.
+
