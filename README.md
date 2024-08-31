@@ -1,5 +1,10 @@
 # NN Fundamentals: Building a Neural Network from Scratch with NumPy
 
+## Authors
+
+- **Denis Rize**  - [GitHub Profile](https://github.com/denisrz)
+- **Adir Serruya** - [GitHub Profile](https://github.com/Adirser)
+
 ## Project Overview
 
 This project provides hands-on experience in building a simple neural network from scratch using NumPy. The primary goal is to deepen the understanding of the forward and backward propagation processes and to develop proficiency in their implementation.
